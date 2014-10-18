@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstMigrations", "CodeFirstMigrations\CodeFirstMigrations.csproj", "{F1B614BF-E8EF-4761-BEB6-B18A6689AEAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstMigrations.Tests", "CodeFirstMigrations.Tests\CodeFirstMigrations.Tests.csproj", "{86D65BE9-8C7F-46B9-A040-B8B18A000CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B614BF-E8EF-4761-BEB6-B18A6689AEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B614BF-E8EF-4761-BEB6-B18A6689AEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B614BF-E8EF-4761-BEB6-B18A6689AEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B614BF-E8EF-4761-BEB6-B18A6689AEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D65BE9-8C7F-46B9-A040-B8B18A000CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D65BE9-8C7F-46B9-A040-B8B18A000CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D65BE9-8C7F-46B9-A040-B8B18A000CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D65BE9-8C7F-46B9-A040-B8B18A000CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
